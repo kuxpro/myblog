@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: 
 description: ""
 keyword: ""
-url: "kuxpro.github.io"              # your host, for absolute URL
+url: ""              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -38,7 +38,8 @@ anchorjs: true                          # if you want to customize anchor. check
 # from PR#40, to support local preview for Jekyll 3.0
 # make sure you have this gem installed
 # `$ gem install jekyll-paginate`
-plugins: [jekyll-paginate]
+# plugins: [jekyll-paginate]
+gems: [jekyll-paginate]
 
 
 
