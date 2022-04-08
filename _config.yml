@@ -1,6 +1,6 @@
 # Site settings
-title: KX Blog
-SEOTitle: KX Blog
+title: My Blog
+SEOTitle: My Blog
 header-img: img/home-bg.jpg
 email: 
 description: ""
@@ -101,9 +101,9 @@ page-mathjax: false
 
 
 # Friends
-friends: [
+# friends: [
     {
-         title: "KX Blog",
-         href: "https://kuxpro.github.io/"
+         title: "GitHub",
+         href: "https://github.com"
     }
 ]
